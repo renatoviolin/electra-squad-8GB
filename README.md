@@ -1,5 +1,5 @@
 # electra-squad-8
-Fine tunning Electra large model using RTX2080 8 GB on Squad 2 
+Fine tuning Electra large model using RTX2080 8 GB on Squad 2 
 
 This repo is a clone of original implementation of Electra (https://github.com/google-research/electra).
 
