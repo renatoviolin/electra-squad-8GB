@@ -31,3 +31,8 @@ With one epoch (~ 8 hours of computing), the eval results were:
 
 The train scripts/train.sh.
 The other modifications is in configure_finetunning.py and model/optimization.py.
+
+## TO-DO
+- Train for more epochs.
+- Train the first 8 layers (1-8)
+- From the fine tunned model, freeze the layers 16-23 and train layer 8-15.
